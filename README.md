@@ -10,11 +10,13 @@ The averages and standard deviation of both months are very similar when compare
 
 The min temperature of december is 8 degrees Farenheit lower than June but the maximum is very similar values.
 
-June Analysis.png
-Figure 1. The describe analysis weather of June.
+![June Analysis](https://user-images.githubusercontent.com/110945895/197584208-b3969968-4196-4a8e-89f0-d40184d350a8.png)
 
-December Analysis.png
-Figure 2. The describe analysis weather of December.
+Figure 1. Weather summary statistics -  June.
+
+![December Analysis](https://user-images.githubusercontent.com/110945895/197584259-4d3a33e7-89fd-4054-80d5-622988b4463a.png)
+
+Figure 2. Weather summary statistics - December.
 
 ## Summary: 
 From the mean, standard deviation, maximum, and minimum, the temperatures of June and December are very similar with the possibility of december having colder outliers. With the assumption that December is the coldest month of the year, it is feasibility of opening a Surf and Shake shop in Hawaii.
