@@ -1,6 +1,5 @@
 # surfs_up
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
 The purpose of this analysis is to determine the feasibility of opening a Surf and Shake shop in Hawaii through analyzing the weather data from June and December from 2010 to 2017. 
 
 ## Results: 
