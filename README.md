@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview of the analysis: 
-The purpose of this analysis is to determine the feasibility of opening a Surf and Shake shop in Hawaii through analyzing the weather data from June and December from 2010 to 2017. 
+The purpose of this analysis is to determine the feasibility of opening a Surf and Shake shop in Hawaii through analyzing the weather data from June and December from 2010 to 2017. Opening up a store in a wrong area could destroy a business before a possibility of success. 
 
 ## Results: 
 There is about 200 more weather counts for June than December. Since the both months have high weather data, there would be no issue with the amount of data collected.
